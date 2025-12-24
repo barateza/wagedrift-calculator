@@ -1,0 +1,5 @@
+{
+  "name": "WageDrift - PPP Calculator",
+  "description": "A privacy-focused financial tool to track real wage purchasing power over time by analyzing income, exchange rates, and inflation.",
+  "requestFramePermissions": []
+}
